@@ -1,0 +1,11 @@
+job_desig	location	salary
+Analytics	Mumbai	6to10
+Analytics	Delhi NCR	6to10
+Growth	Mumbai	15to25
+Analytics	Bengaluru	6to10
+Analytics	Delhi NCR	25to50
+Consultant	Bengaluru	3to6
+Analytics	Chennai	10to15
+Industry	Chennai	15to25
+Data	Bengaluru	15to25
+Data	Mumbai	6to10
